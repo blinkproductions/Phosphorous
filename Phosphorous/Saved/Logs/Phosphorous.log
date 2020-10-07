@@ -2424,3 +2424,1009 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.07-13.57.07:276][556]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.211
 [2020.10.07-13.57.07:288][556]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2020.10.07-13.57.07:288][556]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.07-14.03.30:906][372]LogObjectTools: Deleting 1 worlds: /Game/Levels/NewWorld.NewWorld
+[2020.10.07-14.03.30:906][372]LogObjectTools: Currently 10 active worlds: /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_9, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_20
+[2020.10.07-14.03.30:943][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.10.07-14.03.32:299][372]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.07-14.03.32:324][372]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.03.32:325][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.03.32:394][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.07-14.04.40:283][795]LogSlate: Window 'New Level' being destroyed
+[2020.10.07-14.04.40:293][795]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.07-14.04.40:312][795]LightingResults: New page: Lighting Build
+[2020.10.07-14.04.40:312][795]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.10.07-14.04.40:313][795]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.04.40:313][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.04.40:313][795]MapCheck: New page: Map Check
+[2020.10.07-14.04.40:313][795]LightingResults: New page: Lighting Build
+[2020.10.07-14.04.40:347][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.07-14.04.40:506][795]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.04.40:576][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.07-14.04.40:616][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.07-14.04.40:622][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.07-14.04.40:622][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2020.10.07-14.04.40:622][795]LogFileHelpers: Loading map 'Template_Default' took 0.332
+[2020.10.07-14.09.01:332][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.07-14.12.33:497][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.07-14.12.42:908][302]LogSlate: Window 'BP_Item' being destroyed
+[2020.10.07-14.12.42:921][302]LogSlate: Window 'BP_Item' being destroyed
+[2020.10.07-14.12.42:932][302]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.12.42:932][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.12.42:976][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.07-14.12.42:976][302]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.12.42:976][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.12.43:040][302]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.07-14.12.43:040][302]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.12.43:040][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.14.24:414][361]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SButton [SSceneOutliner.cpp(361)].
+[2020.10.07-14.14.24:505][361]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.10.07-14.14.24:514][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Temp/Untitled_1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.07-14.14.24:525][361]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Untitled_1_Auto81585A2D943159CC863EA56995C398635.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Temp/Untitled_1_Auto8.umap'
+[2020.10.07-14.14.24:526][361]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.094
+[2020.10.07-14.14.24:526][361]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.094
+[2020.10.07-14.15.33:779][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.07-14.15.34:765][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.07-14.16.48:506][481]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.16.48:513][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.16.48:514][481]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:16:48 AM)
+[2020.10.07-14.16.48:514][481]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.16.48:516][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2020.10.07-14.16.48:517][481]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.16.48:517][481]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2020.10.07-14.16.48:517][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002989s)
+[2020.10.07-14.16.48:569][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.16.48:579][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.16.48:580][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.16.48:580][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.16.48:580][481]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.16.48:580][481]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.16.48:669][481]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.16.48:685][481]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.16.48:687][481]LogInit: FAudioDevice initialized.
+[2020.10.07-14.16.48:696][481]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.16.48:697][481]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.16.48
+[2020.10.07-14.16.48:698][481]LogWorld: Bringing up level for play took: 0.000431
+[2020.10.07-14.16.48:698][481]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.10.07-14.16.48:700][481]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.897
+[2020.10.07-14.16.54:956][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.16.54:956][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.16.54:956][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.16.54:956][222]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.16.54:957][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.16.54:957][222]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.16.54:957][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.16.54:965][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.16.54:968][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.16.54:994][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.16.54:996][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.16.54:999][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.07-14.16.55:056][228]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.10.07-14.16.58:022][578]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.16.58:029][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.16.58:029][578]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:16:58 AM)
+[2020.10.07-14.16.58:029][578]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.16.58:031][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001620s)
+[2020.10.07-14.16.58:032][578]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.16.58:032][578]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.10.07-14.16.58:032][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002719s)
+[2020.10.07-14.16.58:057][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.16.58:057][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.16.58:057][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.16.58:059][578]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.16.58:059][578]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.16.58:144][578]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.16.58:158][578]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.16.58:160][578]LogInit: FAudioDevice initialized.
+[2020.10.07-14.16.58:170][578]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.16.58:171][578]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.16.58
+[2020.10.07-14.16.58:172][578]LogWorld: Bringing up level for play took: 0.000527
+[2020.10.07-14.16.58:172][578]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.10.07-14.16.58:174][578]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.371
+[2020.10.07-14.17.08:553][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.17.08:553][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.17.08:553][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.17.08:553][814]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.17.08:553][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.17.08:553][814]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.17.08:554][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.17.08:558][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.17.08:563][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.17.08:587][814]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.17.08:589][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.17.08:592][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.10.07-14.17.08:653][821]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.10.07-14.17.14:434][503]Cmd: DELETE
+[2020.10.07-14.17.14:434][503]Cmd: ACTOR DELETE
+[2020.10.07-14.17.14:436][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.07-14.17.14:458][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.07-14.17.14:460][503]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.10.07-14.17.17:539][866]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.07-14.17.25:496][768]Cmd: TRANSACTION UNDO
+[2020.10.07-14.17.25:496][768]LogEditorTransaction: Undo Snap Actors To Floor
+[2020.10.07-14.17.26:233][819]Cmd: TRANSACTION UNDO
+[2020.10.07-14.17.26:233][819]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.07-14.17.26:755][879]Cmd: TRANSACTION UNDO
+[2020.10.07-14.17.26:755][879]LogEditorTransaction: Undo Brush Add
+[2020.10.07-14.17.27:414][957]Cmd: TRANSACTION UNDO
+[2020.10.07-14.17.27:414][957]LogEditorTransaction: Undo Delete Actors
+[2020.10.07-14.17.30:473][280]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.07-14.17.39:544][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.07-14.17.49:492][487]Cmd: DELETE
+[2020.10.07-14.17.49:492][487]Cmd: ACTOR DELETE
+[2020.10.07-14.17.49:493][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.07-14.17.49:525][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.10.07-14.17.49:532][487]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_15' invalid (24 verts, 0 indices).
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_15.BodySetup_0 when we are unable to.
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_16' invalid (24 verts, 0 indices).
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_16.BodySetup_0 when we are unable to.
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_17' invalid (24 verts, 0 indices).
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_17.BodySetup_0 when we are unable to.
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_18' invalid (24 verts, 0 indices).
+[2020.10.07-14.17.50:951][657]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_18.BodySetup_0 when we are unable to.
+[2020.10.07-14.18.03:063][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.07-14.18.06:322][431]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.10.07-14.18.06:393][431]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.10.07-14.18.06:393][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.10.07-14.18.06:393][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.10.07-14.18.06:393][431]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.10.07-14.18.06:393][431]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.10.07-14.18.06:435][431]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.10.07-14.18.06:499][431]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.10.07-14.18.06:499][431]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.10.07-14.18.06:499][431]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.10.07-14.18.06:499][431]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.10.07-14.18.06:499][431]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.10.07-14.18.06:551][431]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2020.10.07-14.18.06:604][431]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2020.10.07-14.18.06:673][431]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.10.07-14.18.06:861][431]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.10.07-14.18.06:877][431]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.10.07-14.18.06:915][431]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.10.07-14.18.06:959][431]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.10.07-14.18.06:994][431]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.10.07-14.18.07:044][431]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.10.07-14.18.07:058][431]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.10.07-14.18.07:092][431]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.10.07-14.18.07:104][431]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.10.07-14.18.07:118][431]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.10.07-14.18.08:175][521]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 256
+[2020.10.07-14.18.08:185][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 246
+[2020.10.07-14.18.08:322][528]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 236
+[2020.10.07-14.18.08:344][529]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 226
+[2020.10.07-14.18.08:363][530]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 216
+[2020.10.07-14.18.08:391][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 206
+[2020.10.07-14.18.08:613][539]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 196
+[2020.10.07-14.18.09:422][604]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 186
+[2020.10.07-14.18.12:467][878]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 176
+[2020.10.07-14.18.12:610][893]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 166
+[2020.10.07-14.18.12:632][895]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 156
+[2020.10.07-14.18.12:730][904]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 146
+[2020.10.07-14.18.12:790][911]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 136
+[2020.10.07-14.18.12:846][915]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 126
+[2020.10.07-14.18.12:929][924]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 116
+[2020.10.07-14.18.13:886][ 15]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 106
+[2020.10.07-14.18.14:075][ 35]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.10.07-14.18.16:419][288]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 96
+[2020.10.07-14.18.17:185][374]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 86
+[2020.10.07-14.18.17:441][402]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2020.10.07-14.18.17:566][416]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 66
+[2020.10.07-14.18.17:574][417]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2020.10.07-14.18.17:632][422]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2020.10.07-14.18.17:897][451]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2020.10.07-14.18.19:023][562]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.10.07-14.18.20:275][644]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.10.07-14.18.20:809][676]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.10.07-14.18.21:274][689]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.10.07-14.18.21:628][706]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.10.07-14.18.21:666][709]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.10.07-14.18.21:722][713]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.10.07-14.18.21:774][716]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.10.07-14.18.21:904][725]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.10.07-14.18.22:167][736]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.10.07-14.18.22:296][743]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.10.07-14.18.22:481][755]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.10.07-14.18.22:532][758]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.10.07-14.18.22:533][758]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.07-14.18.22:576][761]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.10.07-14.18.22:623][764]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.10.07-14.19.00:849][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.07-14.19.04:959][860]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.07-14.19.08:700][302]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.07-14.19.44:443][528]LogActorFactory: Actor Factory created Plane
+[2020.10.07-14.19.45:149][607]LogActorFactory: Actor Factory created Plane
+[2020.10.07-14.20.58:355][861]AssetReimport: New page: Outstanding source content changes 12:20:58 AM
+[2020.10.07-14.20.58:357][861]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/MyAssets/FloorLayouts/firstLevelLayout.png)
+[2020.10.07-14.20.58:542][862]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevelLayoutACCBDBC44579C4A3C35EFBA0D58AB425.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/MyAssets/FloorLayouts/firstLevelLayout.uasset'
+[2020.10.07-14.20.58:615][863]AssetCheck: New page: Asset Save: firstLevelLayout
+[2020.10.07-14.20.58:615][863]LogContentValidation: Display: Validating Texture2D /Game/MyAssets/FloorLayouts/firstLevelLayout.firstLevelLayout
+[2020.10.07-14.21.01:593][198]AssetReimport: Importing new asset /Game/MyAssets/FloorLayouts/firstLevelLayout.
+[2020.10.07-14.21.51:379][575]LogMaterial: Display: Missing cached shader map for material firstLevelLayout_Mat, compiling. 
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.07-14.21.51:424][576]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.10.07-14.22.00:018][520]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_31' invalid (24 verts, 0 indices).
+[2020.10.07-14.22.00:018][520]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_31.BodySetup_0 when we are unable to.
+[2020.10.07-14.22.00:018][520]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_32' invalid (24 verts, 0 indices).
+[2020.10.07-14.22.00:018][520]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_32.BodySetup_0 when we are unable to.
+[2020.10.07-14.22.00:019][520]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_33' invalid (24 verts, 0 indices).
+[2020.10.07-14.22.00:019][520]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_33.BodySetup_0 when we are unable to.
+[2020.10.07-14.22.00:019][520]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_34' invalid (24 verts, 0 indices).
+[2020.10.07-14.22.00:019][520]LogPhysics: Warning: Attempt to build physics data for /Temp/Untitled_1.Untitled_1:PersistentLevel.ModelComponent_34.BodySetup_0 when we are unable to.
+[2020.10.07-14.22.39:987][245]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.22.39:993][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.22.39:993][245]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:22:39 AM)
+[2020.10.07-14.22.39:994][245]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.22.39:997][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2020.10.07-14.22.39:998][245]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.22.39:999][245]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2020.10.07-14.22.39:999][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005160s)
+[2020.10.07-14.22.40:027][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.22.40:042][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.22.40:042][245]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.22.40:042][245]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.22.40:130][245]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.22.40:154][245]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.22.40:155][245]LogInit: FAudioDevice initialized.
+[2020.10.07-14.22.40:167][245]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.22.40:168][245]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.22.40
+[2020.10.07-14.22.40:168][245]LogWorld: Bringing up level for play took: 0.000457
+[2020.10.07-14.22.40:168][245]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.10.07-14.22.40:187][245]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.385
+[2020.10.07-14.22.51:149][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.22.51:150][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.22.51:150][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.22.51:150][554]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.22.51:150][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.22.51:150][554]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.22.51:150][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.22.51:153][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.22.51:157][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.22.51:182][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.22.51:184][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.22.51:187][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.07-14.22.51:256][562]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.10.07-14.22.55:089][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.23.18:265][757]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.10.07-14.23.34:378][643]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.23.34:385][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.23.34:385][643]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:23:34 AM)
+[2020.10.07-14.23.34:385][643]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.23.34:388][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002682s)
+[2020.10.07-14.23.34:389][643]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.23.34:389][643]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2020.10.07-14.23.34:389][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004059s)
+[2020.10.07-14.23.34:418][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.23.34:426][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.23.34:426][643]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.23.34:426][643]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.23.34:511][643]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.23.34:528][643]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.23.34:530][643]LogInit: FAudioDevice initialized.
+[2020.10.07-14.23.34:536][643]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.23.34:537][643]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.23.34
+[2020.10.07-14.23.34:538][643]LogWorld: Bringing up level for play took: 0.000480
+[2020.10.07-14.23.34:538][643]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.10.07-14.23.34:540][643]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.737
+[2020.10.07-14.23.39:563][241]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.39:563][241]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.39:563][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.23.39:563][241]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.23.39:563][241]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.39:563][241]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.23.39:563][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.23.39:568][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.23.39:572][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.23.39:597][241]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.39:599][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.23.39:602][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.10.07-14.23.39:662][248]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.10.07-14.23.43:567][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.23.50:855][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.23.50:862][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.23.50:862][551]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:23:50 AM)
+[2020.10.07-14.23.50:862][551]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.23.50:865][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002528s)
+[2020.10.07-14.23.50:865][551]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.23.50:866][551]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2020.10.07-14.23.50:866][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003440s)
+[2020.10.07-14.23.50:892][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.23.50:896][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.23.50:896][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.23.50:897][551]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.23.50:897][551]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.23.50:981][551]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.23.50:996][551]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.23.50:997][551]LogInit: FAudioDevice initialized.
+[2020.10.07-14.23.51:005][551]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.23.51:007][551]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.23.51
+[2020.10.07-14.23.51:007][551]LogWorld: Bringing up level for play took: 0.000665
+[2020.10.07-14.23.51:007][551]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.10.07-14.23.51:009][551]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.793
+[2020.10.07-14.23.56:575][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.56:575][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.56:575][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.23.56:576][214]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.23.56:576][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.56:576][214]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.23.56:576][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.23.56:584][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.23.56:587][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.23.56:612][214]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.23.56:615][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.23.56:618][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.10.07-14.23.56:678][221]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.10.07-14.24.00:424][668]Cmd: SELECT NONE
+[2020.10.07-14.24.02:880][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.24.10:122][809]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.24.10:129][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.24.10:129][809]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:24:10 AM)
+[2020.10.07-14.24.10:129][809]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.10:133][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003201s)
+[2020.10.07-14.24.10:134][809]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.24.10:134][809]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2020.10.07-14.24.10:134][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004488s)
+[2020.10.07-14.24.10:161][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.24.10:165][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.24.10:165][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.24.10:166][809]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.24.10:166][809]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.24.10:246][809]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.24.10:260][809]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.10:262][809]LogInit: FAudioDevice initialized.
+[2020.10.07-14.24.10:266][809]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.24.10:267][809]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.24.10
+[2020.10.07-14.24.10:267][809]LogWorld: Bringing up level for play took: 0.000435
+[2020.10.07-14.24.10:267][809]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.10.07-14.24.10:269][809]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.467
+[2020.10.07-14.24.20:212][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.20:212][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.20:212][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.20:212][996]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.20:212][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.20:212][996]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.24.20:212][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.20:219][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.24.20:223][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.20:245][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.20:248][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.20:250][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.10.07-14.24.20:311][  3]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.10.07-14.24.29:117][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.24.29:982][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.24.35:850][843]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.24.35:857][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.24.35:857][843]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:24:35 AM)
+[2020.10.07-14.24.35:858][843]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.35:860][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002659s)
+[2020.10.07-14.24.35:862][843]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.24.35:862][843]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2020.10.07-14.24.35:862][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004131s)
+[2020.10.07-14.24.35:888][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.24.35:892][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.24.35:892][843]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.24.35:892][843]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.24.35:975][843]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.24.35:990][843]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.35:991][843]LogInit: FAudioDevice initialized.
+[2020.10.07-14.24.35:995][843]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.24.35:996][843]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.24.35
+[2020.10.07-14.24.35:996][843]LogWorld: Bringing up level for play took: 0.000628
+[2020.10.07-14.24.35:996][843]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.10.07-14.24.35:998][843]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.195
+[2020.10.07-14.24.42:886][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.42:886][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.42:887][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.42:887][663]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.42:887][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.42:887][663]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.24.42:887][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.42:894][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.24.42:898][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.42:922][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.42:924][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.42:928][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.10.07-14.24.42:988][670]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.10.07-14.24.44:109][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.24.49:785][454]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.24.49:792][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.24.49:792][454]PIE: New page: PIE session: Untitled_1 (Oct 7, 2020, 12:24:49 AM)
+[2020.10.07-14.24.49:792][454]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.49:795][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003250s)
+[2020.10.07-14.24.49:796][454]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.07-14.24.49:797][454]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2020.10.07-14.24.49:797][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004485s)
+[2020.10.07-14.24.49:821][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.24.49:824][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.24.49:824][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.24.49:825][454]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.24.49:825][454]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.24.49:910][454]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.24.49:924][454]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.24.49:926][454]LogInit: FAudioDevice initialized.
+[2020.10.07-14.24.49:937][454]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.24.49:938][454]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.10.07-07.24.49
+[2020.10.07-14.24.49:938][454]LogWorld: Bringing up level for play took: 0.000455
+[2020.10.07-14.24.49:938][454]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.10.07-14.24.49:940][454]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.137
+[2020.10.07-14.24.55:716][143]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.55:716][143]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.55:716][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.55:716][143]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.10.07-14.24.55:716][143]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.55:716][143]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.24.55:716][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.55:726][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.24.55:729][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.24.55:753][143]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.24.55:756][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.24.55:759][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.10.07-14.24.55:817][148]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.10.07-14.25.42:629][522]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.07-14.25.42:690][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.07-14.25.42:707][522]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demoAF93EF0A44E39AB6F62D4FA8B8FB30A7.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo.umap'
+[2020.10.07-14.25.42:722][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/firstLevel_demo_BuiltData" FILE="E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo_BuiltData.uasset" SILENT=true
+[2020.10.07-14.25.42:729][522]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demo_BuiltData0D2F3AB745EFD9C0B42644B2A2FD96C1.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo_BuiltData.uasset'
+[2020.10.07-14.25.42:735][522]LogFileHelpers: Saving map 'firstLevel_demo' took 0.096
+[2020.10.07-14.25.42:736][522]Cmd: MAP LOAD FILE="E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.07-14.25.42:756][522]LightingResults: New page: Lighting Build
+[2020.10.07-14.25.42:757][522]LoadErrors: New page: Loading map: firstLevel_demo.umap
+[2020.10.07-14.25.42:757][522]LogWorld: UWorld::CleanupWorld for firstLevel_demo, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.25.42:757][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.25.42:757][522]MapCheck: New page: Map Check
+[2020.10.07-14.25.42:757][522]LightingResults: New page: Lighting Build
+[2020.10.07-14.25.42:786][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.10.07-14.25.42:796][522]LogAIModule: Creating AISystem for world firstLevel_demo
+[2020.10.07-14.25.42:876][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.07-14.25.42:902][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.10.07-14.25.42:923][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.07-14.25.42:923][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2020.10.07-14.25.42:923][522]LogFileHelpers: Loading map 'firstLevel_demo' took 0.189
+[2020.10.07-14.25.42:934][522]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.07-14.25.42:934][522]LogContentValidation: Display: Validating World /Game/Levels/firstLevel_demo.firstLevel_demo
+[2020.10.07-14.25.42:934][522]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/firstLevel_demo_BuiltData.firstLevel_demo_BuiltData
+[2020.10.07-14.27.31:266][987]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.27.54:371][542]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.28.32:447][893]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.29.07:575][798]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.29.40:368][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.29.40:629][717]Cmd: TRANSACTION UNDO
+[2020.10.07-14.29.40:629][717]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.29.41:015][736]Cmd: TRANSACTION UNDO
+[2020.10.07-14.29.41:015][736]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.29.41:022][736]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.29.41:022][736]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.29.41:022][736]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.29.41:757][815]Cmd: TRANSACTION UNDO
+[2020.10.07-14.29.41:757][815]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.29.41:762][815]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.29.41:762][815]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.29.41:762][815]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.29.43:531][ 25]Cmd: TRANSACTION UNDO
+[2020.10.07-14.29.43:531][ 25]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.29.52:569][946]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.30.34:621][730]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.31.17:434][778]Cmd: TRANSACTION UNDO
+[2020.10.07-14.31.17:434][778]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.31.17:441][778]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.31.17:441][778]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.31.17:441][778]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.31.45:097][482]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.07-14.32.18:710][478]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.18:710][478]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.18:717][478]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.18:717][478]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.18:717][478]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.19:500][533]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.19:500][533]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.32.19:975][586]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.19:976][586]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.19:983][586]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.19:983][586]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.19:983][586]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.20:305][622]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.20:305][622]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.20:312][622]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.20:312][622]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.20:312][622]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.27:931][531]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.27:931][531]LogEditorTransaction: Undo Modifier [Extrude]
+[2020.10.07-14.32.28:517][565]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.28:517][565]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.28:522][565]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.28:522][565]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.28:523][565]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.29:167][637]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.29:167][637]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.32.29:676][695]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.29:676][695]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.29:680][695]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.29:680][695]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.29:680][695]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.34:720][292]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.34:720][292]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.34:724][292]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.34:724][292]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.34:724][292]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.45:486][535]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.45:486][535]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.45:488][535]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.45:488][535]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.45:488][535]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.45:844][552]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.45:844][552]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.45:849][552]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.45:849][552]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.45:849][552]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.46:245][588]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.46:245][588]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.46:249][588]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.46:249][588]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.46:249][588]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.46:651][633]Cmd: TRANSACTION UNDO
+[2020.10.07-14.32.46:651][633]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.32.46:654][633]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.10.07-14.32.46:655][633]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.10.07-14.32.46:655][633]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.10.07-14.32.59:536][162]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.33.17:516][297]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.34.29:689][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.34.33:334][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.34.53:374][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.35.10:225][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.35.50:787][190]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.36.12:998][774]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.37.09:153][364]Cmd: TRANSACTION UNDO
+[2020.10.07-14.37.09:153][364]LogEditorTransaction: Undo Modifier [Weld]
+[2020.10.07-14.37.09:938][420]Cmd: TRANSACTION UNDO
+[2020.10.07-14.37.09:938][420]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.37.10:580][493]Cmd: TRANSACTION UNDO
+[2020.10.07-14.37.10:580][493]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.37.11:111][553]Cmd: TRANSACTION UNDO
+[2020.10.07-14.37.11:111][553]LogEditorTransaction: Undo Modifier [Weld]
+[2020.10.07-14.37.14:678][958]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.07-14.37.32:896][110]Cmd: TRANSACTION UNDO
+[2020.10.07-14.37.32:896][110]LogEditorTransaction: Undo Modifier [Weld]
+[2020.10.07-14.37.37:788][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.37.40:598][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.37.56:987][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.37.57:609][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.38.00:361][258]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.00:362][258]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.07-14.38.00:761][272]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.00:761][272]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.38.01:144][309]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.01:144][309]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.38.01:582][356]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.01:582][356]LogEditorTransaction: Undo Modifier [Weld]
+[2020.10.07-14.38.04:529][694]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.04:529][694]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.04:974][743]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.04:974][743]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.05:394][791]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.05:394][791]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.05:839][842]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.05:839][842]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.07-14.38.06:685][938]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.06:685][938]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.38.07:220][998]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.07:220][998]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.07-14.38.07:558][ 34]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.07:558][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.38.07:892][ 70]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.07:892][ 70]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.08:420][130]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.08:420][130]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.08:828][177]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.08:828][177]LogEditorTransaction: Undo Modifier [Weld]
+[2020.10.07-14.38.11:482][486]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.11:482][486]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.11:921][534]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.11:921][534]LogEditorTransaction: Undo Modifier [Edit]
+[2020.10.07-14.38.45:691][444]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.38.58:431][952]Cmd: TRANSACTION UNDO
+[2020.10.07-14.38.58:431][952]LogEditorTransaction: Undo Move Actors
+[2020.10.07-14.39.14:265][743]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.39.43:625][195]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.40.06:247][823]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.40.48:525][767]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.41.05:837][722]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.07-14.41.56:131][584]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.41.56:138][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.41.56:138][584]PIE: New page: PIE session: firstLevel_demo (Oct 7, 2020, 12:41:56 AM)
+[2020.10.07-14.41.56:139][584]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.41.56:146][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007633s)
+[2020.10.07-14.41.56:147][584]LogAIModule: Creating AISystem for world firstLevel_demo
+[2020.10.07-14.41.56:147][584]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2020.10.07-14.41.56:147][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/firstLevel_demo.firstLevel_demo to /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo (0.008771s)
+[2020.10.07-14.41.56:180][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.10.07-14.41.56:192][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.41.56:193][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.41.56:193][584]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.41.56:193][584]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.41.56:277][584]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.41.56:277][584]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.41.56:277][584]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.41.56:278][584]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.41.56:292][584]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.41.56:294][584]LogInit: FAudioDevice initialized.
+[2020.10.07-14.41.56:305][584]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.41.56:306][584]LogWorld: Bringing World /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo up for play (max tick rate 0) at 2020.10.07-07.41.56
+[2020.10.07-14.41.56:306][584]LogWorld: Bringing up level for play took: 0.000729
+[2020.10.07-14.41.56:306][584]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.10.07-14.41.56:309][584]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_firstLevel_demo 0.506
+[2020.10.07-14.42.01:269][174]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.42.01:269][174]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.42.01:269][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.42.01:269][174]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.42.01:270][174]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.42.01:270][174]LogWorld: UWorld::CleanupWorld for firstLevel_demo, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.42.01:270][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.42.01:276][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.42.01:280][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.42.01:306][174]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.42.01:309][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.42.01:312][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.07-14.42.01:371][181]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.10.07-14.42.17:921][148]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush)
+[2020.10.07-14.42.49:881][894]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.07-14.43.03:147][468]Cmd: SELECT NONE
+[2020.10.07-14.43.04:900][676]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.07-14.43.18:179][225]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.10.07-14.43.19:103][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.43.24:938][998]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.07-14.43.37:521][491]Cmd: TRANSACTION UNDO
+[2020.10.07-14.43.37:521][491]LogEditorTransaction: Undo Set Location
+[2020.10.07-14.43.40:306][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.44.09:551][192]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.44.09:558][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.44.09:558][192]PIE: New page: PIE session: firstLevel_demo (Oct 7, 2020, 12:44:09 AM)
+[2020.10.07-14.44.09:559][192]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.44.09:566][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007424s)
+[2020.10.07-14.44.09:567][192]LogAIModule: Creating AISystem for world firstLevel_demo
+[2020.10.07-14.44.09:567][192]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2020.10.07-14.44.09:567][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/firstLevel_demo.firstLevel_demo to /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo (0.008497s)
+[2020.10.07-14.44.09:596][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.44.09:607][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.44.09:608][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.44.09:608][192]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.44.09:608][192]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.44.09:689][192]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.44.09:703][192]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.44.09:704][192]LogInit: FAudioDevice initialized.
+[2020.10.07-14.44.09:712][192]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.44.09:713][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo up for play (max tick rate 0) at 2020.10.07-07.44.09
+[2020.10.07-14.44.09:714][192]LogWorld: Bringing up level for play took: 0.000722
+[2020.10.07-14.44.09:714][192]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.10.07-14.44.09:716][192]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_firstLevel_demo -0.087
+[2020.10.07-14.44.35:875][308]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.44.35:875][308]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.44.35:876][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.44.35:876][308]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.44.35:876][308]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.44.35:876][308]LogWorld: UWorld::CleanupWorld for firstLevel_demo, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.44.35:876][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.44.35:883][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.44.35:888][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.44.35:912][308]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.44.35:914][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.44.35:917][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.10.07-14.44.35:979][315]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.10.07-14.45.29:932][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.07-14.45.29:973][678]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demo_Auto9E76894094C546369E6692DA643C7E712.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/Levels/firstLevel_demo_Auto9.umap'
+[2020.10.07-14.45.29:974][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/firstLevel_demo' took 0.066
+[2020.10.07-14.45.29:974][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2020.10.07-14.45.29:974][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/FloorLayouts/firstLevelLayout_Mat] ([1] browsable assets)...
+[2020.10.07-14.45.29:985][678]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyAssets/FloorLayouts/firstLevelLayout_Mat.firstLevelLayout_Mat]
+[2020.10.07-14.45.29:985][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/FloorLayouts/firstLevelLayout_Mat]
+[2020.10.07-14.45.29:995][678]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevelLayout_Mat_Auto95E3D1E18478513B4F7C3F99B16C8215E.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/FloorLayouts/firstLevelLayout_Mat_Auto9.uasset'
+[2020.10.07-14.45.29:996][678]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.10.07-14.45.57:490][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.07-14.45.57:544][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.07-14.45.57:569][595]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demoE8B54804473DE53834CAD3AF7A7BFCB9.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo.umap'
+[2020.10.07-14.45.57:586][595]LogFileHelpers: Saving map 'firstLevel_demo' took 0.070
+[2020.10.07-14.45.57:588][595]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevelLayout_MatA4FF820B4309BA45012281B815013EB5.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/MyAssets/FloorLayouts/firstLevelLayout_Mat.uasset'
+[2020.10.07-14.45.57:611][595]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.07-14.45.57:611][595]LogContentValidation: Display: Validating World /Game/Levels/firstLevel_demo.firstLevel_demo
+[2020.10.07-14.45.57:611][595]LogContentValidation: Display: Validating Material /Game/MyAssets/FloorLayouts/firstLevelLayout_Mat.firstLevelLayout_Mat
+[2020.10.07-14.47.04:360][363]Cmd: TRANSACTION UNDO
+[2020.10.07-14.47.04:360][363]LogEditorTransaction: Undo Modifier [Extrude]
+[2020.10.07-14.47.10:693][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.47.19:103][997]Cmd: POLY TEXSCALE  UU=16.000000 VV=16.000000
+[2020.10.07-14.47.32:464][516]Cmd: POLY TEXSCALE  UU=8.000000 VV=8.000000
+[2020.10.07-14.47.36:155][935]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.47.48:507][320]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.47.49:334][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.47.54:028][960]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2020.10.07-14.47.59:876][650]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.48.03:690][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.48.12:327][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.48.42:393][566]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.48.45:157][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.49.13:879][157]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.49.18:177][658]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.49.21:806][ 88]Cmd: POLY TEXSCALE  UU=4.000000 VV=4.000000
+[2020.10.07-14.49.23:533][294]Cmd: POLY TEXSCALE  UU=4.000000 VV=4.000000
+[2020.10.07-14.49.27:941][808]Cmd: POLY TEXSCALE  UU=0.125000 VV=0.125000
+[2020.10.07-14.49.32:473][346]Cmd: POLY TEXSCALE  UU=2.000000 VV=2.000000
+[2020.10.07-14.49.38:347][  4]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.49.38:354][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.49.38:354][  4]PIE: New page: PIE session: firstLevel_demo (Oct 7, 2020, 12:49:38 AM)
+[2020.10.07-14.49.38:354][  4]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.49.38:363][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008074s)
+[2020.10.07-14.49.38:364][  4]LogAIModule: Creating AISystem for world firstLevel_demo
+[2020.10.07-14.49.38:364][  4]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2020.10.07-14.49.38:364][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/firstLevel_demo.firstLevel_demo to /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo (0.009581s)
+[2020.10.07-14.49.38:394][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.49.38:409][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.49.38:409][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.49.38:409][  4]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.49.38:410][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.49.38:493][  4]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.49.38:510][  4]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.49.38:511][  4]LogInit: FAudioDevice initialized.
+[2020.10.07-14.49.38:519][  4]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.49.38:521][  4]LogWorld: Bringing World /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo up for play (max tick rate 0) at 2020.10.07-07.49.38
+[2020.10.07-14.49.38:522][  4]LogWorld: Bringing up level for play took: 0.001097
+[2020.10.07-14.49.38:522][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.10.07-14.49.38:524][  4]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_firstLevel_demo 0.722
+[2020.10.07-14.49.40:088][184]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.49.40:088][184]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.49.40:088][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.49.40:088][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.49.40:089][184]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.49.40:089][184]LogWorld: UWorld::CleanupWorld for firstLevel_demo, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.49.40:089][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.49.40:095][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.49.40:098][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.49.40:125][184]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.49.40:127][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.49.40:130][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.10.07-14.49.40:191][191]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.10.07-14.49.53:720][755]LogSlate: Window 'Select Path' being destroyed
+[2020.10.07-14.50.50:186][362]LogSlate: Window 'Select Path' being destroyed
+[2020.10.07-14.50.50:251][362]LogStaticMesh: Building static mesh Box_Brush_StaticMesh...
+[2020.10.07-14.50.50:259][362]LogStaticMesh: Built static mesh [0.01s] /Game/CustomFloorLayoutMeshes/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2020.10.07-14.50.50:261][362]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2020.10.07-14.50.50:281][362]LogEditor: Error: Actor 'Brush /Game/Levels/firstLevel_demo.firstLevel_demo:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2020.10.07-14.50.50:281][362]EditorErrors: New page: Actor Reattachment
+[2020.10.07-14.50.50:308][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.10.07-14.50.57:529][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.51.00:969][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.51.23:915][205]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.07-14.51.23:922][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.07-14.51.23:922][205]PIE: New page: PIE session: firstLevel_demo (Oct 7, 2020, 12:51:23 AM)
+[2020.10.07-14.51.23:922][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.51.23:924][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001813s)
+[2020.10.07-14.51.23:925][205]LogAIModule: Creating AISystem for world firstLevel_demo
+[2020.10.07-14.51.23:925][205]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2020.10.07-14.51.23:926][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/firstLevel_demo.firstLevel_demo to /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo (0.003513s)
+[2020.10.07-14.51.23:984][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.10.07-14.51.23:988][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.07-14.51.23:988][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.07-14.51.23:988][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.07-14.51.23:989][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.07-14.51.23:989][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.07-14.51.23:989][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.07-14.51.23:989][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.07-14.51.23:989][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.07-14.51.23:989][205]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.07-14.51.23:989][205]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Name: SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Is Default: Yes
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: Channel Order:
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.07-14.51.24:073][205]LogAudioMixer: Display: 1: FrontRight
+[2020.10.07-14.51.24:087][205]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2020.10.07-14.51.24:088][205]LogInit: FAudioDevice initialized.
+[2020.10.07-14.51.24:093][205]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.07-14.51.24:095][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_firstLevel_demo.firstLevel_demo up for play (max tick rate 0) at 2020.10.07-07.51.24
+[2020.10.07-14.51.24:095][205]LogWorld: Bringing up level for play took: 0.000401
+[2020.10.07-14.51.24:095][205]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.10.07-14.51.24:097][205]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_firstLevel_demo 0.294
+[2020.10.07-14.51.39:055][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.51.39:055][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.51.39:055][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.51.39:055][989]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_firstLevel_demo
+[2020.10.07-14.51.39:055][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.51.39:055][989]LogWorld: UWorld::CleanupWorld for firstLevel_demo, bSessionEnded=true, bCleanupResources=true
+[2020.10.07-14.51.39:055][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.51.39:062][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.07-14.51.39:067][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.07-14.51.39:098][989]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.07-14.51.39:101][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.07-14.51.39:114][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.07-14.51.39:161][992]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.10.07-14.51.39:724][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.51.47:597][979]Cmd: TRANSACTION UNDO
+[2020.10.07-14.51.47:597][979]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.51.51:776][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.51.55:064][819]Cmd: TRANSACTION UNDO
+[2020.10.07-14.51.55:064][819]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.51.55:577][847]Cmd: TRANSACTION UNDO
+[2020.10.07-14.51.55:577][847]LogEditorTransaction: Undo Replace component used material
+[2020.10.07-14.51.59:969][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.52.10:943][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.52.33:389][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.52.38:717][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.52.41:620][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2020.10.07-14.52.47:761][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.07-14.52.49:023][994]Cmd: TRANSACTION UNDO
+[2020.10.07-14.52.49:023][994]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.52.49:413][ 12]Cmd: TRANSACTION UNDO
+[2020.10.07-14.52.49:413][ 12]LogEditorTransaction: Undo Replace component used material
+[2020.10.07-14.52.50:281][107]Cmd: TRANSACTION UNDO
+[2020.10.07-14.52.50:281][107]LogEditorTransaction: Undo Replace component used material
+[2020.10.07-14.52.51:554][259]Cmd: TRANSACTION UNDO
+[2020.10.07-14.52.51:554][259]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.07-14.52.52:916][422]Cmd: TRANSACTION UNDO
+[2020.10.07-14.52.52:917][422]LogEditorTransaction: Undo Convert Actors
+[2020.10.07-14.53.42:757][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.07-14.53.42:780][278]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demoC644E3424A3B0330CEE9BB848C836D88.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo.umap'
+[2020.10.07-14.53.42:795][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/firstLevel_demo_BuiltData" FILE="E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo_BuiltData.uasset" SILENT=true
+[2020.10.07-14.53.42:809][278]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/firstLevel_demo_BuiltDataCEB1676E4ED3CC3FA7A555B6C8B8A60C.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Content/Levels/firstLevel_demo_BuiltData.uasset'
+[2020.10.07-14.53.42:829][278]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.07-14.53.42:829][278]LogContentValidation: Display: Validating World /Game/Levels/firstLevel_demo.firstLevel_demo
+[2020.10.07-14.53.42:829][278]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/firstLevel_demo_BuiltData.firstLevel_demo_BuiltData
