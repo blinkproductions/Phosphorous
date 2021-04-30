@@ -22,11 +22,6 @@
 				"Linux",
 				"Mac"
 			]
-		},
-		{
-			"Name": "PivotTool",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a220ab040cb844beb355b0f159eabefa"
 		}
 	]
 }
