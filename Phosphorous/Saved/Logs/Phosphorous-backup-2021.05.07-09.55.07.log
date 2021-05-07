@@ -1,0 +1,1534 @@
+﻿Log file open, 05/07/21 02:42:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Phosphorous
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.054880
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.07-09.42.42:859][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.07-09.42.42:860][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:860][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:863][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-09.42.42:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.05.07-09.42.42:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.05.07-09.42.42:864][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-09.42.42:864][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.07-09.42.42:866][  0]LogHAL: Display: Platform has ~ 16 GB [17126506496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.07-09.42.42:866][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.07-09.42.42:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.07-09.42.42:866][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.05.07-09.42.42:867][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.07-09.42.42:868][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.07-09.42.42:868][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.07-09.42.42:868][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Phosphorous/Phosphorous/Saved/Config/Windows/Engine.ini]
+[2021.05.07-09.42.42:868][  0]LogInit: Computer: DESKTOP-50AIND5
+[2021.05.07-09.42.42:868][  0]LogInit: User: Truong
+[2021.05.07-09.42.42:868][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.07-09.42.42:868][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.07-09.42.42:868][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.05.07-09.42.42:868][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.07-09.42.42:868][  0]LogMemory: Process Physical Memory: 110.02 MB used, 110.03 MB peak
+[2021.05.07-09.42.42:868][  0]LogMemory: Process Virtual Memory: 106.13 MB used, 106.13 MB peak
+[2021.05.07-09.42.42:868][  0]LogMemory: Physical Memory: 8426.04 MB used,  7907.07 MB free, 16333.11 MB total
+[2021.05.07-09.42.42:868][  0]LogMemory: Virtual Memory: 5182.12 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.05.07-09.42.42:870][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.07-09.42.42:894][  0]LogInit: Using OS detected language (en-US).
+[2021.05.07-09.42.42:894][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.07-09.42.42:895][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.07-09.42.43:015][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.07-09.42.43:040][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.07-09.42.43:040][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.07-09.42.43:127][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.07-09.42.43:127][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.07-09.42.43:127][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.07-09.42.43:221][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.05.07-09.42.43:222][  0]LogD3D11RHI:       5967/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.07-09.42.43:224][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.07-09.42.43:224][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.07-09.42.43:224][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.07-09.42.43:231][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.07-09.42.43:231][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.07-09.42.43:231][  0]LogWindows: EnumDisplayDevices:
+[2021.05.07-09.42.43:231][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.05.07-09.42.43:231][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.05.07-09.42.43:232][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.07-09.42.43:232][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.07-09.42.43:232][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.07-09.42.43:232][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.05.07-09.42.43:232][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.05.07-09.42.43:232][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.05.07-09.42.43:232][  0]LogRHI: Texture pool is 4176 MB (70% of 5967 MB)
+[2021.05.07-09.42.43:316][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.07-09.42.43:316][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.07-09.42.43:345][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.05.07-09.42.43:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.07-09.42.43:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.07-09.42.43:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.07-09.42.43:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.07-09.42.43:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.07-09.42.43:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.07-09.42.43:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.07-09.42.43:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.07-09.42.43:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.07-09.42.43:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.07-09.42.43:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.07-09.42.43:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.07-09.42.43:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.07-09.42.43:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.07-09.42.43:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.07-09.42.43:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.07-09.42.43:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.07-09.42.43:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.07-09.42.43:676][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.07-09.42.43:678][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.07-09.42.43:692][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../Phosphorous/Phosphorous/Intermediate/Shaders/WorkingDirectory/12304/).
+[2021.05.07-09.42.43:692][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Truong/AppData/Local/Temp/UnrealShaderWorkingDir/233C38B54E6502ADFC9C129EFB9A9083/'.
+[2021.05.07-09.42.43:693][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.05.07-09.42.43:693][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.07-09.42.43:693][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.07-09.42.44:320][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Truong/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Truong/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Phosphorous/Phosphorous/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Phosphorous/Phosphorous/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-09.42.44:361][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.07-09.42.44:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.07-09.42.44:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-09.42.44:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.07-09.42.44:371][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Truong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.07-09.42.44:371][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.07-09.42.44:371][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.07-09.42.44:391][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.05.07-09.42.44:393][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.07-09.42.44:394][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.07-09.42.44:429][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.05.07-09.42.44:660][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-09.42.44:790][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.07-09.42.44:790][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.07-09.42.44:790][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.07-09.42.44:790][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.07-09.42.44:790][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.07-09.42.44:800][  0]LogNetVersion: Phosphorous 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1239860017)
+[2021.05.07-09.42.45:520][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.022857 seconds
+[2021.05.07-09.42.45:527][  0]LogUObjectArray: 46098 objects as part of root set at end of initial load.
+[2021.05.07-09.42.45:527][  0]LogUObjectAllocator: 8030680 out of 0 bytes used by permanent object pool.
+[2021.05.07-09.42.45:527][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.07-09.42.45:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.07-09.42.45:889][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.07-09.42.45:931][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.45:931][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.45:932][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.45:932][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.45:933][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.46:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.07-09.42.46:013][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-09.42.46:013][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-09.42.46:097][  0]LogEngine: Initializing Engine...
+[2021.05.07-09.42.46:098][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.07-09.42.46:355][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.07-09.42.46:361][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-09.42.46:372][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-09.42.46:372][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-09.42.46:372][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Name: Headphones (3- Arctis 7 Game)
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: Channel Order:
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-09.42.46:394][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-09.42.46:406][  0]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis 7 Game)
+[2021.05.07-09.42.46:411][  0]LogInit: FAudioDevice initialized.
+[2021.05.07-09.42.46:412][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.07-09.42.46:491][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Truong/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.05.07-09.42.46:491][  0]LogInit: Texture streaming: Enabled
+[2021.05.07-09.42.46:499][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.07-09.42.46:500][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.07-09.42.46:500][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.07-09.42.46:537][  0]LogInit: Transaction tracking system initialized
+[2021.05.07-09.42.46:545][  0]BlueprintLog: New page: Editor Load
+[2021.05.07-09.42.46:566][  0]LocalizationService: Localization service is disabled
+[2021.05.07-09.42.46:779][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../Phosphorous/Phosphorous/Content/ as it will conflict with another watching ../../../../Phosphorous/Phosphorous/Content/.
+[2021.05.07-09.42.46:784][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.05.07-09.42.46:784][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.07-09.42.46:875][  0]LogFileCache: Scanning file cache for directory 'D:/Phosphorous/Phosphorous/Content/' took 0.01s
+[2021.05.07-09.42.46:875][  0]SourceControl: Source control is disabled
+[2021.05.07-09.42.46:875][  0]Cmd: MAP LOAD FILE="../../../../Phosphorous/Phosphorous/Content/MannyTest/Menu/MenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.07-09.42.46:876][  0]LightingResults: New page: Lighting Build
+[2021.05.07-09.42.46:876][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.42.46:876][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.42.46:876][  0]MapCheck: New page: Map Check
+[2021.05.07-09.42.46:876][  0]LightingResults: New page: Lighting Build
+[2021.05.07-09.42.46:905][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.07-09.42.46:932][  0]LogAIModule: Creating AISystem for world MenuLevel
+[2021.05.07-09.42.46:933][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.07-09.42.46:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.05.07-09.42.46:961][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.07-09.42.46:961][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2021.05.07-09.42.46:961][  0]LogFileHelpers: Loading map 'MenuLevel' took 0.086
+[2021.05.07-09.42.47:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-09.42.47:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-09.42.47:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-09.42.47:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-09.42.47:093][  0]LogCollectionManager: Loaded 0 collections in 0.000612 seconds
+[2021.05.07-09.42.47:105][  0]LogFileCache: Scanning file cache for directory 'D:/Phosphorous/Phosphorous/Saved/Collections/' took 0.00s
+[2021.05.07-09.42.47:105][  0]LogFileCache: Scanning file cache for directory 'D:/Phosphorous/Phosphorous/Content/Developers/Truong/Collections/' took 0.00s
+[2021.05.07-09.42.47:105][  0]LogFileCache: Scanning file cache for directory 'D:/Phosphorous/Phosphorous/Content/Collections/' took 0.00s
+[2021.05.07-09.42.47:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2997 classes and 701 folders.
+[2021.05.07-09.42.47:106][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.07-09.42.47:138][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.07-09.42.47:141][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.05.07-09.42.47:236][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.07-09.42.47:237][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.07-09.42.47:241][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.07-09.42.47:272][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.05.07-09.42.47:313][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.07-09.42.47:313][  0]LogLoad: (Engine Initialization) Total time: 5.10 seconds
+[2021.05.07-09.42.47:313][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.07-09.42.47:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.07-09.42.47:404][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-09.42.47:434][  1]LogAssetRegistry: Asset discovery search completed in 3.0051 seconds
+[2021.05.07-09.42.47:437][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.05.07-09.42.52:420][575]LogFileCache: Retrieving MD5 hashes for directory 'D:/Phosphorous/Phosphorous/Content/' took 5.09s
+[2021.05.07-09.43.12:428][916]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-09.43.12:551][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.07-09.43.12:566][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_LoungeChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset" SILENT=true
+[2021.05.07-09.43.12:577][916]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_LoungeChair9072BE954B4CB5BE3D4EB8B281CBCE70.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset'
+[2021.05.07-09.43.12:577][916]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_LoungeChair.PA_LoungeChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.43.12:577][916]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_LoungeChair.SKEL_PA_LoungeChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.43.12:604][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_LoungeChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset" SILENT=true
+[2021.05.07-09.43.12:628][916]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_LoungeChair1B54B650497726F9E0D4E78B42C7AA2B.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset'
+[2021.05.07-09.43.12:737][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.05.07-09.43.12:769][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.05.07-09.43.12:794][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.07-09.43.12:829][916]AssetCheck: New page: Asset Save: PA_LoungeChair
+[2021.05.07-09.43.12:829][916]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_LoungeChair.PA_LoungeChair
+[2021.05.07-09.43.13:649][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_LoungeChair.PA_LoungeChair
+[2021.05.07-09.43.14:433][ 10]LogBlueprint: Warning: [Compiler WG_Inventory_Slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2021.05.07-09.43.14:937][ 10]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.05.07-09.43.17:194][194]LogSlate: Window 'PA_LoungeChair' being destroyed
+[2021.05.07-09.43.17:199][194]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.43.17:199][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.43.17:261][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_LoungeChair.PA_LoungeChair
+[2021.05.07-09.43.17:575][194]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.07-09.43.19:185][365]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:1).
+[2021.05.07-09.43.19:602][408]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.07-09.43.29:957][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_LoungeChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset" SILENT=true
+[2021.05.07-09.43.29:974][502]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_LoungeChair83075F324C2617A9E5A34494106FC2F8.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_LoungeChair.uasset'
+[2021.05.07-09.43.29:987][502]AssetCheck: New page: Asset Save: PA_LoungeChair
+[2021.05.07-09.43.29:987][502]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_LoungeChair.PA_LoungeChair
+[2021.05.07-09.43.35:160][ 71]LogSlate: Window 'PA_LoungeChair' being destroyed
+[2021.05.07-09.43.35:165][ 71]LogSlate: Window 'PA_LoungeChair' being destroyed
+[2021.05.07-09.43.35:180][ 71]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.43.35:180][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.43.47:419][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.05.07-09.43.58:445][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.05.07-09.43.58:464][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_RegularChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset" SILENT=true
+[2021.05.07-09.43.58:474][746]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_RegularChair5A6FE91E42CDCC6DE9FD49843B51BB0E.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset'
+[2021.05.07-09.43.58:475][746]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_RegularChair.SKEL_PA_RegularChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.43.58:475][746]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_RegularChair.PA_RegularChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.43.58:497][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_RegularChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset" SILENT=true
+[2021.05.07-09.43.58:512][746]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_RegularChair6CDE36084C371834AB91DB867A53AEDB.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset'
+[2021.05.07-09.43.58:667][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.07-09.43.58:697][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.05.07-09.43.58:722][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.07-09.43.58:766][746]AssetCheck: New page: Asset Save: PA_RegularChair
+[2021.05.07-09.43.58:766][746]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_RegularChair.PA_RegularChair
+[2021.05.07-09.43.59:824][870]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_RegularChair.PA_RegularChair
+[2021.05.07-09.44.01:598][ 41]LogSlate: Window 'PA_RegularChair' being destroyed
+[2021.05.07-09.44.01:619][ 41]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.44.01:619][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.44.01:684][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_RegularChair.PA_RegularChair
+[2021.05.07-09.44.33:456][521]LogTexture: Display: Building textures: Regular_Chair_alpha_ (AutoDXT, 856X1016)
+[2021.05.07-09.44.33:456][521]LogTexture: Display: Building textures: Regular_Chair_ (AutoDXT, 856X1016)
+[2021.05.07-09.44.33:456][521]LogMaterial: Display: Missing cached shader map for material M_RegularChair, compiling. 
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.44.33:527][521]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.44.37:332][855]BlueprintLog: New page: Compile PA_RegularChair
+[2021.05.07-09.44.37:537][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.07-09.44.37:567][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_RegularChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset" SILENT=true
+[2021.05.07-09.44.37:587][855]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_RegularChair5BBA5E114506368F837EA8BDD3930FAF.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_RegularChair.uasset'
+[2021.05.07-09.44.37:599][855]AssetCheck: New page: Asset Save: PA_RegularChair
+[2021.05.07-09.44.37:599][855]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_RegularChair.PA_RegularChair
+[2021.05.07-09.44.56:585][ 78]LogSlate: Window 'PA_RegularChair' being destroyed
+[2021.05.07-09.44.56:589][ 78]LogSlate: Window 'PA_RegularChair' being destroyed
+[2021.05.07-09.44.56:605][ 78]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.44.56:605][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.45.01:418][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.07-09.45.09:161][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.07-09.45.09:178][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_TurnedOverChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset" SILENT=true
+[2021.05.07-09.45.09:188][490]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TurnedOverChair53192695417D8D1B1D930B8C15F30792.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset'
+[2021.05.07-09.45.09:189][490]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_TurnedOverChair.SKEL_PA_TurnedOverChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.45.09:189][490]LogMetaData: Removing '/Game/PlaceableActors/Chairs/PA_TurnedOverChair.PA_TurnedOverChair_C' ref from Metadata '/Game/PlaceableActors/Chairs/PA_ArmChair_2.PackageMetaData'
+[2021.05.07-09.45.09:210][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_TurnedOverChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset" SILENT=true
+[2021.05.07-09.45.09:244][490]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TurnedOverChair79E9A1D349F1485275BA199DEE681296.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset'
+[2021.05.07-09.45.09:416][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.07-09.45.09:447][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.07-09.45.09:470][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.07-09.45.09:514][490]AssetCheck: New page: Asset Save: PA_TurnedOverChair
+[2021.05.07-09.45.09:514][490]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_TurnedOverChair.PA_TurnedOverChair
+[2021.05.07-09.45.10:141][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_TurnedOverChair.PA_TurnedOverChair
+[2021.05.07-09.45.11:715][712]LogSlate: Window 'PA_TurnedOverChair' being destroyed
+[2021.05.07-09.45.11:736][712]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.45.11:736][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.45.11:793][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Chairs/PA_TurnedOverChair.PA_TurnedOverChair
+[2021.05.07-09.45.21:730][658]LogTexture: Display: Building textures: Turned_Over_Chair_alpha (AutoDXT, 1312X1616)
+[2021.05.07-09.45.21:730][658]LogTexture: Display: Building textures: Turned_Over_Chair_ (AutoDXT, 1312X1616)
+[2021.05.07-09.45.21:730][658]LogMaterial: Display: Missing cached shader map for material M_TurnedOverChair, compiling. 
+[2021.05.07-09.45.21:769][659]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.45.21:769][659]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.45.21:769][659]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.45.21:769][659]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.45.21:770][659]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.45.23:672][767]BlueprintLog: New page: Compile PA_TurnedOverChair
+[2021.05.07-09.45.23:888][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.07-09.45.23:928][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Chairs/PA_TurnedOverChair" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset" SILENT=true
+[2021.05.07-09.45.23:949][767]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TurnedOverChair48932D8C4B5AEC034C01BF9B1E7D64D8.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Chairs/PA_TurnedOverChair.uasset'
+[2021.05.07-09.45.23:961][767]AssetCheck: New page: Asset Save: PA_TurnedOverChair
+[2021.05.07-09.45.23:961][767]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Chairs/PA_TurnedOverChair.PA_TurnedOverChair
+[2021.05.07-09.45.24:853][863]LogSlate: Window 'PA_TurnedOverChair' being destroyed
+[2021.05.07-09.45.24:858][863]LogSlate: Window 'PA_TurnedOverChair' being destroyed
+[2021.05.07-09.45.24:877][863]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.45.24:877][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table_C' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.PA_Table:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.SKEL_PA_Table_C:ReceiveBeginPlay' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.SKEL_PA_Table_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.SKEL_PA_Table_C:ReceiveTick' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.SKEL_PA_Table_C:UserConstructionScript' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:342][492]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_Table.SKEL_PA_Table_C' ref from Metadata '/Game/PlaceableActors/PA_Table.PackageMetaData'
+[2021.05.07-09.46.00:370][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_Table" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_Table.uasset" SILENT=true
+[2021.05.07-09.46.00:381][492]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_Table98DBED804F351B7694132ABFFC6F9833.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_Table.uasset'
+[2021.05.07-09.46.00:382][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/PA_Table" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/PA_Table.uasset" SILENT=true
+[2021.05.07-09.46.00:410][492]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_Table766FB3E4439733243CC64AAF95755700.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/PA_Table.uasset'
+[2021.05.07-09.46.00:464][492]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.07-09.46.00:464][492]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_Table.PA_Table
+[2021.05.07-09.46.00:464][492]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_Table.PA_Table
+[2021.05.07-09.46.00:464][492]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_Table.Default__PA_Table_C
+[2021.05.07-09.46.00:464][492]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_Table.PA_Table_C
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.PA_RoundTable_C' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.SKEL_PA_RoundTable_C:ReceiveBeginPlay' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.SKEL_PA_RoundTable_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.SKEL_PA_RoundTable_C:ReceiveTick' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.SKEL_PA_RoundTable_C:UserConstructionScript' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:009][746]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_RoundTable.SKEL_PA_RoundTable_C' ref from Metadata '/Game/PlaceableActors/PA_RoundTable.PackageMetaData'
+[2021.05.07-09.46.03:036][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_RoundTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_RoundTable.uasset" SILENT=true
+[2021.05.07-09.46.03:048][746]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_RoundTableBF661E9D4386ED1704180F8AB6C6EE5C.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_RoundTable.uasset'
+[2021.05.07-09.46.03:049][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/PA_RoundTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/PA_RoundTable.uasset" SILENT=true
+[2021.05.07-09.46.03:063][746]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_RoundTable2EAA38834416E04AE0A8058D2AF0FC7B.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/PA_RoundTable.uasset'
+[2021.05.07-09.46.03:123][746]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.07-09.46.03:123][746]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_RoundTable.PA_RoundTable
+[2021.05.07-09.46.03:123][746]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_RoundTable.PA_RoundTable
+[2021.05.07-09.46.03:123][746]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_RoundTable.Default__PA_RoundTable_C
+[2021.05.07-09.46.03:123][746]LogContentValidation: Display: Validating ObjectRedirector /Game/PlaceableActors/PA_RoundTable.PA_RoundTable_C
+[2021.05.07-09.46.28:930][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.07-09.46.35:225][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.07-09.46.35:241][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_DisplayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset" SILENT=true
+[2021.05.07-09.46.35:251][476]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_DisplayTable7180695B480485870AF7CEB2B0CA1D8D.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset'
+[2021.05.07-09.46.35:252][476]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_DisplayTable.SKEL_PA_DisplayTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.46.35:252][476]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_DisplayTable.PA_DisplayTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.46.35:271][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_DisplayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset" SILENT=true
+[2021.05.07-09.46.35:303][476]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_DisplayTableFFCF59FD4D4D8CA716F15BB4E9E8D4A4.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset'
+[2021.05.07-09.46.35:464][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.07-09.46.35:496][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.07-09.46.35:520][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.07-09.46.35:565][476]AssetCheck: New page: Asset Save: PA_DisplayTable
+[2021.05.07-09.46.35:565][476]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_DisplayTable.PA_DisplayTable
+[2021.05.07-09.46.36:695][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_DisplayTable.PA_DisplayTable
+[2021.05.07-09.46.38:618][797]LogSlate: Window 'PA_DisplayTable' being destroyed
+[2021.05.07-09.46.38:642][797]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.46.38:642][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.46.38:700][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_DisplayTable.PA_DisplayTable
+[2021.05.07-09.46.52:459][301]BlueprintLog: New page: Compile PA_DisplayTable
+[2021.05.07-09.46.52:671][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.07-09.46.52:704][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_DisplayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset" SILENT=true
+[2021.05.07-09.46.52:725][301]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_DisplayTable9A5C1A3C4CAD02988F295F8D08448B32.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_DisplayTable.uasset'
+[2021.05.07-09.46.52:738][301]AssetCheck: New page: Asset Save: PA_DisplayTable
+[2021.05.07-09.46.52:738][301]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_DisplayTable.PA_DisplayTable
+[2021.05.07-09.46.54:842][532]LogSlate: Window 'PA_DisplayTable' being destroyed
+[2021.05.07-09.46.54:846][532]LogSlate: Window 'PA_DisplayTable' being destroyed
+[2021.05.07-09.46.54:863][532]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.46.54:863][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.47.01:865][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.05.07-09.47.02:794][425]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_ArmChair.PA_ArmChair
+[2021.05.07-09.47.04:747][618]LogSlate: Window 'PA_ArmChair' being destroyed
+[2021.05.07-09.47.04:753][618]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.47.04:753][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.47.12:759][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.07-09.47.12:774][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_HallwayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset" SILENT=true
+[2021.05.07-09.47.12:784][527]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_HallwayTable78358E4D450DC9B82A13E69C55A9B07B.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset'
+[2021.05.07-09.47.12:784][527]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_HallwayTable.SKEL_PA_HallwayTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.47.12:785][527]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.47.12:804][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_HallwayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset" SILENT=true
+[2021.05.07-09.47.12:820][527]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_HallwayTableE0E387EE4CCF2AD349E09FAB65501637.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset'
+[2021.05.07-09.47.12:990][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.05.07-09.47.13:022][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.05.07-09.47.13:043][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.07-09.47.13:088][527]AssetCheck: New page: Asset Save: PA_HallwayTable
+[2021.05.07-09.47.13:088][527]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable
+[2021.05.07-09.47.16:327][912]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable
+[2021.05.07-09.47.17:683][ 35]LogSlate: Window 'PA_HallwayTable' being destroyed
+[2021.05.07-09.47.17:707][ 35]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.47.17:707][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.47.17:764][ 35]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable
+[2021.05.07-09.47.36:861][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_HallwayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset" SILENT=true
+[2021.05.07-09.47.36:877][  9]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_HallwayTable0074B57049D78041581270854B5A15A8.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset'
+[2021.05.07-09.47.36:889][  9]AssetCheck: New page: Asset Save: PA_HallwayTable
+[2021.05.07-09.47.36:889][  9]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable
+[2021.05.07-09.47.38:583][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_HallwayTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset" SILENT=true
+[2021.05.07-09.47.38:598][187]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_HallwayTable1EC97D9E4E65714E5FA6A5B9EF831637.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_HallwayTable.uasset'
+[2021.05.07-09.47.38:609][187]AssetCheck: New page: Asset Save: PA_HallwayTable
+[2021.05.07-09.47.38:609][187]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_HallwayTable.PA_HallwayTable
+[2021.05.07-09.47.39:679][308]LogSlate: Window 'PA_HallwayTable' being destroyed
+[2021.05.07-09.47.39:683][308]LogSlate: Window 'PA_HallwayTable' being destroyed
+[2021.05.07-09.47.39:699][308]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.47.39:699][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.47.50:931][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.07-09.48.05:993][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.07-09.48.06:008][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset" SILENT=true
+[2021.05.07-09.48.06:018][323]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_L_ShapedCoffeeTable7DA0FB274DE5007B4C3A8D93A70D7731.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset'
+[2021.05.07-09.48.06:018][323]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.SKEL_PA_L_ShapedCoffeeTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.48.06:018][323]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.PA_L_ShapedCoffeeTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.48.06:040][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset" SILENT=true
+[2021.05.07-09.48.06:075][323]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_L_ShapedCoffeeTableB9A310A64EEA0FC8322D5B954302EA3E.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset'
+[2021.05.07-09.48.06:246][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.07-09.48.06:277][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.07-09.48.06:301][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.05.07-09.48.06:346][323]AssetCheck: New page: Asset Save: PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.06:346][323]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.07:728][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.09:171][615]LogSlate: Window 'PA_L_ShapedCoffeeTable' being destroyed
+[2021.05.07-09.48.09:193][615]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.48.09:193][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.48.09:255][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.16:950][298]LogTexture: Display: Building textures: L_Shaped_Coffee_Table_alpha_ (AutoDXT, 1336X1368)
+[2021.05.07-09.48.16:950][298]LogTexture: Display: Building textures: L_Shaped_Coffee_Table (AutoDXT, 1336X1368)
+[2021.05.07-09.48.16:950][298]LogMaterial: Display: Missing cached shader map for material M_L_Shaped_Coffee_Table, compiling. 
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.48.16:972][298]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.48.18:545][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset" SILENT=true
+[2021.05.07-09.48.18:563][373]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_L_ShapedCoffeeTable781A3B794F9E40B9F7ADC59143574AA0.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.uasset'
+[2021.05.07-09.48.18:578][373]AssetCheck: New page: Asset Save: PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.18:578][373]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_L_ShapedCoffeeTable.PA_L_ShapedCoffeeTable
+[2021.05.07-09.48.20:715][608]LogSlate: Window 'PA_L_ShapedCoffeeTable' being destroyed
+[2021.05.07-09.48.20:720][608]LogSlate: Window 'PA_L_ShapedCoffeeTable' being destroyed
+[2021.05.07-09.48.20:735][608]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.48.20:735][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.48.36:990][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.07-09.48.45:766][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.07-09.48.45:783][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_WritingTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset" SILENT=true
+[2021.05.07-09.48.45:793][494]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_WritingTableC6834FA54C9A95D6ECC1B7A94DA86281.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset'
+[2021.05.07-09.48.45:793][494]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_WritingTable.SKEL_PA_WritingTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.48.45:793][494]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_WritingTable.PA_WritingTable_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.48.45:817][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_WritingTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset" SILENT=true
+[2021.05.07-09.48.45:854][494]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_WritingTableD21D95BF4F1040D4FBFD2DB249DCA7CA.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset'
+[2021.05.07-09.48.46:024][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.07-09.48.46:057][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.07-09.48.46:082][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.07-09.48.46:126][494]AssetCheck: New page: Asset Save: PA_WritingTable
+[2021.05.07-09.48.46:126][494]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_WritingTable.PA_WritingTable
+[2021.05.07-09.48.48:027][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_WritingTable.PA_WritingTable
+[2021.05.07-09.48.49:565][862]LogSlate: Window 'PA_WritingTable' being destroyed
+[2021.05.07-09.48.49:585][862]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.48.49:585][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.48.49:650][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_WritingTable.PA_WritingTable
+[2021.05.07-09.48.57:473][647]LogTexture: Display: Building textures: Writing_Table_alpha (BGRA8, 1271X834)
+[2021.05.07-09.48.57:473][647]LogTexture: Display: Building textures: Writing_Table (BGRA8, 1271X834)
+[2021.05.07-09.48.57:473][647]LogMaterial: Display: Missing cached shader map for material M_Writing_Table, compiling. 
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.48.57:502][647]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.49.00:371][858]BlueprintLog: New page: Compile PA_WritingTable
+[2021.05.07-09.49.00:580][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.07-09.49.00:612][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_WritingTable" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset" SILENT=true
+[2021.05.07-09.49.00:637][858]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_WritingTable44B3ECE641D7F9A1950C55A4FB0317E5.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_WritingTable.uasset'
+[2021.05.07-09.49.00:657][858]AssetCheck: New page: Asset Save: PA_WritingTable
+[2021.05.07-09.49.00:657][858]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_WritingTable.PA_WritingTable
+[2021.05.07-09.49.01:905][998]LogSlate: Window 'PA_WritingTable' being destroyed
+[2021.05.07-09.49.01:911][998]LogSlate: Window 'PA_WritingTable' being destroyed
+[2021.05.07-09.49.01:927][998]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.49.01:927][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.49.07:164][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.05.07-09.49.14:551][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.07-09.49.14:568][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_TableTop" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset" SILENT=true
+[2021.05.07-09.49.14:579][423]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TableTopF97A7BA74EBED594A0AF2E9B1E236E46.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset'
+[2021.05.07-09.49.14:580][423]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_TableTop.SKEL_PA_TableTop_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.49.14:580][423]LogMetaData: Removing '/Game/PlaceableActors/Tables/PA_TableTop.PA_TableTop_C' ref from Metadata '/Game/PlaceableActors/Tables/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.49.14:601][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_TableTop" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset" SILENT=true
+[2021.05.07-09.49.14:617][423]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TableTopCA273CB54BF586890F49EAB30C486148.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset'
+[2021.05.07-09.49.14:802][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.07-09.49.14:834][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.05.07-09.49.14:861][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.05.07-09.49.14:907][423]AssetCheck: New page: Asset Save: PA_TableTop
+[2021.05.07-09.49.14:907][423]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_TableTop.PA_TableTop
+[2021.05.07-09.49.15:847][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_TableTop.PA_TableTop
+[2021.05.07-09.49.17:379][672]LogSlate: Window 'PA_TableTop' being destroyed
+[2021.05.07-09.49.17:401][672]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.49.17:401][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.49.17:457][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Tables/PA_TableTop.PA_TableTop
+[2021.05.07-09.49.29:361][854]BlueprintLog: New page: Compile PA_TableTop
+[2021.05.07-09.49.29:591][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.07-09.49.29:625][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Tables/PA_TableTop" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset" SILENT=true
+[2021.05.07-09.49.29:646][854]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_TableTop38BA6F634FCCAD1C027F89BE79B6B075.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Tables/PA_TableTop.uasset'
+[2021.05.07-09.49.29:658][854]AssetCheck: New page: Asset Save: PA_TableTop
+[2021.05.07-09.49.29:658][854]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Tables/PA_TableTop.PA_TableTop
+[2021.05.07-09.49.31:943][100]LogSlate: Window 'PA_TableTop' being destroyed
+[2021.05.07-09.49.31:948][100]LogSlate: Window 'PA_TableTop' being destroyed
+[2021.05.07-09.49.31:963][100]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.49.31:963][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.49.57:144][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.07-09.50.03:187][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.07-09.50.03:203][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_BrokenLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset" SILENT=true
+[2021.05.07-09.50.03:213][327]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_BrokenLampBAF179964E7212580A0ED2A18D31435A.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset'
+[2021.05.07-09.50.03:213][327]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_BrokenLamp.SKEL_PA_BrokenLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.50.03:214][327]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_BrokenLamp.PA_BrokenLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.50.03:233][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_BrokenLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset" SILENT=true
+[2021.05.07-09.50.03:261][327]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_BrokenLamp11D38D3C44FB2AF223FDCDB97BB4159B.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset'
+[2021.05.07-09.50.03:431][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.05.07-09.50.03:463][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.07-09.50.03:489][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.07-09.50.03:534][327]AssetCheck: New page: Asset Save: PA_BrokenLamp
+[2021.05.07-09.50.03:534][327]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_BrokenLamp.PA_BrokenLamp
+[2021.05.07-09.50.04:253][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_BrokenLamp.PA_BrokenLamp
+[2021.05.07-09.50.06:133][597]LogSlate: Window 'PA_BrokenLamp' being destroyed
+[2021.05.07-09.50.06:182][597]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.50.06:182][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.50.06:246][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_BrokenLamp.PA_BrokenLamp
+[2021.05.07-09.50.14:000][405]LogTexture: Display: Building textures: Broken_Lamp_alpha_ (BGRA8, 834X837)
+[2021.05.07-09.50.14:000][405]LogTexture: Display: Building textures: Broken_Lamp_ (BGRA8, 834X837)
+[2021.05.07-09.50.14:000][405]LogMaterial: Display: Missing cached shader map for material M_BrokenLamp, compiling. 
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.50.14:018][405]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.50.21:207][125]BlueprintLog: New page: Compile PA_BrokenLamp
+[2021.05.07-09.50.21:420][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.07-09.50.21:450][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_BrokenLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset" SILENT=true
+[2021.05.07-09.50.21:474][125]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_BrokenLamp6D62ABC048819E00E94F75B9DD498318.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_BrokenLamp.uasset'
+[2021.05.07-09.50.21:486][125]AssetCheck: New page: Asset Save: PA_BrokenLamp
+[2021.05.07-09.50.21:486][125]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_BrokenLamp.PA_BrokenLamp
+[2021.05.07-09.50.37:572][ 17]LogSlate: Window 'PA_BrokenLamp' being destroyed
+[2021.05.07-09.50.37:595][ 17]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.50.37:595][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.50.46:321][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.05.07-09.50.52:909][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.07-09.50.52:926][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OffLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset" SILENT=true
+[2021.05.07-09.50.52:936][742]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OffLamp0CC9868A4DB096D74FADCE8B65289438.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset'
+[2021.05.07-09.50.52:937][742]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_OffLamp.SKEL_PA_OffLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.50.52:937][742]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_OffLamp.PA_OffLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.50.52:960][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OffLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset" SILENT=true
+[2021.05.07-09.50.52:976][742]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OffLampB1A9036F456F9FF03196549A27AF429F.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset'
+[2021.05.07-09.50.53:147][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.05.07-09.50.53:177][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.05.07-09.50.53:203][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.07-09.50.53:248][742]AssetCheck: New page: Asset Save: PA_OffLamp
+[2021.05.07-09.50.53:248][742]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_OffLamp.PA_OffLamp
+[2021.05.07-09.50.54:121][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_OffLamp.PA_OffLamp
+[2021.05.07-09.50.55:565][981]LogSlate: Window 'PA_OffLamp' being destroyed
+[2021.05.07-09.50.55:585][981]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.50.55:585][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.50.55:647][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_OffLamp.PA_OffLamp
+[2021.05.07-09.51.01:633][578]LogTexture: Display: Building textures: Off_Lamp_alpha_ (BGRA8, 829X833)
+[2021.05.07-09.51.01:633][578]LogTexture: Display: Building textures: Off_Lamp_ (BGRA8, 829X833)
+[2021.05.07-09.51.01:633][578]LogMaterial: Display: Missing cached shader map for material M_OffLamp, compiling. 
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.51.01:655][578]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.51.03:210][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OffLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset" SILENT=true
+[2021.05.07-09.51.03:230][659]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OffLamp2F53A5EF461FD8CAD18853BA377B422D.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OffLamp.uasset'
+[2021.05.07-09.51.03:260][659]AssetCheck: New page: Asset Save: PA_OffLamp
+[2021.05.07-09.51.03:260][659]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_OffLamp.PA_OffLamp
+[2021.05.07-09.51.04:722][819]LogSlate: Window 'PA_OffLamp' being destroyed
+[2021.05.07-09.51.04:726][819]LogSlate: Window 'PA_OffLamp' being destroyed
+[2021.05.07-09.51.04:741][819]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.51.04:741][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.51.06:749][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.07-09.51.13:124][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.05.07-09.51.13:140][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OnLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset" SILENT=true
+[2021.05.07-09.51.13:151][737]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OnLamp7EA27B5044E3041801244D87802C5B04.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset'
+[2021.05.07-09.51.13:151][737]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_OnLamp.SKEL_PA_OnLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.51.13:151][737]LogMetaData: Removing '/Game/PlaceableActors/Lamps/PA_OnLamp.PA_OnLamp_C' ref from Metadata '/Game/PlaceableActors/Lamps/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.51.13:175][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OnLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset" SILENT=true
+[2021.05.07-09.51.13:192][737]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OnLamp98CB703B45C54294A088318B0CFA91AB.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset'
+[2021.05.07-09.51.13:361][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.05.07-09.51.13:393][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.05.07-09.51.13:418][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.07-09.51.13:463][737]AssetCheck: New page: Asset Save: PA_OnLamp
+[2021.05.07-09.51.13:463][737]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_OnLamp.PA_OnLamp
+[2021.05.07-09.51.14:085][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_OnLamp.PA_OnLamp
+[2021.05.07-09.51.15:621][955]LogSlate: Window 'PA_OnLamp' being destroyed
+[2021.05.07-09.51.15:626][955]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.51.15:626][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.51.15:689][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/Lamps/PA_OnLamp.PA_OnLamp
+[2021.05.07-09.51.28:025][263]LogTexture: Display: Building textures: On_Lamp_alpha (BGRA8, 829X833)
+[2021.05.07-09.51.28:025][263]LogTexture: Display: Building textures: On_Lamp_ (BGRA8, 811X823)
+[2021.05.07-09.51.28:025][263]LogMaterial: Display: Missing cached shader map for material M_OnLamp, compiling. 
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.51.28:043][263]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.51.31:225][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/Lamps/PA_OnLamp" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset" SILENT=true
+[2021.05.07-09.51.31:240][510]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_OnLamp91B6616B490FE3DC8F79E2A58395627A.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/Lamps/PA_OnLamp.uasset'
+[2021.05.07-09.51.31:253][510]AssetCheck: New page: Asset Save: PA_OnLamp
+[2021.05.07-09.51.31:253][510]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/Lamps/PA_OnLamp.PA_OnLamp
+[2021.05.07-09.51.33:089][723]LogSlate: Window 'PA_OnLamp' being destroyed
+[2021.05.07-09.51.33:094][723]LogSlate: Window 'PA_OnLamp' being destroyed
+[2021.05.07-09.51.33:110][723]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.51.33:110][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.52.34:867][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.07-09.52.44:493][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.07-09.52.44:509][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset" SILENT=true
+[2021.05.07-09.52.44:519][656]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine855F117E4E7EA752E42E57982B45BB8D.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset'
+[2021.05.07-09.52.44:520][656]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine.SKEL_PA_PinballMachine_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.52.44:520][656]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine.PA_PinballMachine_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.52.44:541][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset" SILENT=true
+[2021.05.07-09.52.44:576][656]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine6D3571FA49E109EACFBB35AF4EFEF21F.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset'
+[2021.05.07-09.52.44:746][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.07-09.52.44:779][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.05.07-09.52.44:805][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.07-09.52.44:849][656]AssetCheck: New page: Asset Save: PA_PinballMachine
+[2021.05.07-09.52.44:849][656]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine.PA_PinballMachine
+[2021.05.07-09.52.45:695][755]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine.PA_PinballMachine
+[2021.05.07-09.52.47:320][914]LogSlate: Window 'PA_PinballMachine' being destroyed
+[2021.05.07-09.52.47:343][914]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.52.47:343][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.52.47:402][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine.PA_PinballMachine
+[2021.05.07-09.53.07:930][ 69]LogTexture: Display: Building textures: Pinball_alpha (AutoDXT, 1536X2048)
+[2021.05.07-09.53.07:931][ 69]LogTexture: Display: Building textures: Pinball-1 (AutoDXT, 1536X2048)
+[2021.05.07-09.53.07:931][ 69]LogMaterial: Display: Missing cached shader map for material M_Pinball-1, compiling. 
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.53.07:955][ 69]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.53.09:367][144]BlueprintLog: New page: Compile PA_PinballMachine
+[2021.05.07-09.53.09:642][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.05.07-09.53.09:683][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset" SILENT=true
+[2021.05.07-09.53.09:707][144]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachineA61DFFEC4555B773FE2FA69C0EE7403A.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine.uasset'
+[2021.05.07-09.53.09:724][144]AssetCheck: New page: Asset Save: PA_PinballMachine
+[2021.05.07-09.53.09:724][144]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine.PA_PinballMachine
+[2021.05.07-09.53.11:267][320]LogSlate: Window 'PA_PinballMachine' being destroyed
+[2021.05.07-09.53.11:271][320]LogSlate: Window 'PA_PinballMachine' being destroyed
+[2021.05.07-09.53.11:287][320]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.53.11:287][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.53.16:669][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.05.07-09.53.16:686][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine1" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine1.uasset" SILENT=true
+[2021.05.07-09.53.16:697][903]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine158BA68DB40E83587566DDDB32ADB4264.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine1.uasset'
+[2021.05.07-09.53.16:697][903]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine1.PA_PinballMachine1_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_PinballMachine.PackageMetaData'
+[2021.05.07-09.53.16:697][903]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine1.SKEL_PA_PinballMachine1_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_PinballMachine.PackageMetaData'
+[2021.05.07-09.53.16:715][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine1" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine1.uasset" SILENT=true
+[2021.05.07-09.53.16:732][903]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine1E56B8D8F4148F2DF7FE44EA887A58A00.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine1.uasset'
+[2021.05.07-09.53.17:008][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.05.07-09.53.17:041][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.07-09.53.17:064][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.05.07-09.53.17:108][903]AssetCheck: New page: Asset Save: PA_PinballMachine1
+[2021.05.07-09.53.17:108][903]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine1.PA_PinballMachine1
+[2021.05.07-09.53.22:780][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MannyTest/Menu/MenuLevel" FILE="../../../../Phosphorous/Phosphorous/Content/MannyTest/Menu/MenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.07-09.53.22:805][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.05.07-09.53.23:012][572]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/MenuLevel4902BDB84AB1AA797BAB77B99B7948A5.tmp' to '../../../../Phosphorous/Phosphorous/Content/MannyTest/Menu/MenuLevel.umap'
+[2021.05.07-09.53.23:055][572]AssetCheck: New page: Asset Save: MenuLevel
+[2021.05.07-09.53.23:055][572]LogContentValidation: Display: Validating World /Game/MannyTest/Menu/MenuLevel.MenuLevel
+[2021.05.07-09.53.26:629][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.05.07-09.53.35:414][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.07-09.53.35:430][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine2" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset" SILENT=true
+[2021.05.07-09.53.35:440][967]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine2D7F7F4664A6945807D1119B5C9A12384.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset'
+[2021.05.07-09.53.35:441][967]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine2.SKEL_PA_PinballMachine2_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.53.35:441][967]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_PinballMachine2.PA_PinballMachine2_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.53.35:464][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine2" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset" SILENT=true
+[2021.05.07-09.53.35:500][967]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine2790352E64FDF1470050AC1811F0C551D.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset'
+[2021.05.07-09.53.35:668][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.05.07-09.53.35:702][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.07-09.53.35:727][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.07-09.53.35:775][967]AssetCheck: New page: Asset Save: PA_PinballMachine2
+[2021.05.07-09.53.35:776][967]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine2.PA_PinballMachine2
+[2021.05.07-09.53.36:326][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine2.PA_PinballMachine2
+[2021.05.07-09.53.37:713][159]LogSlate: Window 'PA_PinballMachine2' being destroyed
+[2021.05.07-09.53.37:735][159]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.53.37:735][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.53.37:798][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine2.PA_PinballMachine2
+[2021.05.07-09.53.56:989][137]LogTexture: Display: Building textures: Pinball-2 (AutoDXT, 1536X2048)
+[2021.05.07-09.53.56:989][137]LogMaterial: Display: Missing cached shader map for material M_Pinball-2, compiling. 
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 29
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2021.05.07-09.53.57:032][138]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.05.07-09.53.59:278][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_PinballMachine2" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset" SILENT=true
+[2021.05.07-09.53.59:294][276]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_PinballMachine2957ADA4C445DE01972801880BD7C189F.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_PinballMachine2.uasset'
+[2021.05.07-09.53.59:306][276]AssetCheck: New page: Asset Save: PA_PinballMachine2
+[2021.05.07-09.53.59:307][276]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_PinballMachine2.PA_PinballMachine2
+[2021.05.07-09.54.01:318][509]LogSlate: Window 'PA_PinballMachine2' being destroyed
+[2021.05.07-09.54.01:322][509]LogSlate: Window 'PA_PinballMachine2' being destroyed
+[2021.05.07-09.54.01:338][509]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.54.01:338][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.54.18:860][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.07-09.54.24:537][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.05.07-09.54.24:554][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_Foosball" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_Foosball.uasset" SILENT=true
+[2021.05.07-09.54.24:564][150]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_FoosballB8763C484044689C06D69B9B58244608.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_Foosball.uasset'
+[2021.05.07-09.54.24:565][150]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_Foosball.SKEL_PA_Foosball_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.54.24:565][150]LogMetaData: Removing '/Game/PlaceableActors/GameRoom/PA_Foosball.PA_Foosball_C' ref from Metadata '/Game/PlaceableActors/GameRoom/PA_ArmChair.PackageMetaData'
+[2021.05.07-09.54.24:588][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceableActors/GameRoom/PA_Foosball" FILE="../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_Foosball.uasset" SILENT=true
+[2021.05.07-09.54.24:604][150]LogSavePackage: Moving '../../../../Phosphorous/Phosphorous/Saved/PA_Foosball1386CD334480027ACDCF81B0987AF4B7.tmp' to '../../../../Phosphorous/Phosphorous/Content/PlaceableActors/GameRoom/PA_Foosball.uasset'
+[2021.05.07-09.54.24:774][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.05.07-09.54.24:807][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.05.07-09.54.24:833][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.07-09.54.24:877][150]AssetCheck: New page: Asset Save: PA_Foosball
+[2021.05.07-09.54.24:877][150]LogContentValidation: Display: Validating Blueprint /Game/PlaceableActors/GameRoom/PA_Foosball.PA_Foosball
+[2021.05.07-09.54.25:700][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlaceableActors/GameRoom/PA_Foosball.PA_Foosball
+[2021.05.07-09.55.05:362][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.05.07-09.55.05:431][442]LogSlate: Window 'Content Browser 2' being destroyed
+[2021.05.07-09.55.05:437][442]LogSlate: Window 'PA_Foosball' being destroyed
+[2021.05.07-09.55.05:455][442]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.05:455][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-09.55.05:506][442]LogSlate: Window 'Phosphorous - Unreal Editor' being destroyed
+[2021.05.07-09.55.05:506][442]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.05.07-09.55.05:594][443]Cmd: QUIT_EDITOR
+[2021.05.07-09.55.05:594][443]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.05.07-09.55.05:601][443]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.07-09.55.05:601][443]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.07-09.55.05:614][443]LogExit: Preparing to exit.
+[2021.05.07-09.55.06:385][443]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:386][443]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:387][443]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:387][443]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:388][443]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:389][443]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:389][443]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:390][443]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:390][443]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:391][443]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:392][443]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:392][443]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:393][443]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:394][443]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:394][443]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:395][443]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:395][443]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:396][443]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:397][443]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:397][443]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:398][443]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:398][443]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:417][443]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.05.07-09.55.06:438][443]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-09.55.06:438][443]LogExit: Editor shut down
+[2021.05.07-09.55.06:438][443]LogExit: Transaction tracking system shut down
+[2021.05.07-09.55.06:669][443]LogExit: Object subsystem successfully closed.
+[2021.05.07-09.55.06:688][443]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.05.07-09.55.06:698][443]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (684)
+[2021.05.07-09.55.06:698][443]LogModuleManager: Shutting down and abandoning module BlueprintGraph (682)
+[2021.05.07-09.55.06:698][443]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (680)
+[2021.05.07-09.55.06:698][443]LogModuleManager: Shutting down and abandoning module SceneOutliner (678)
+[2021.05.07-09.55.06:698][443]LogModuleManager: Shutting down and abandoning module AddContentDialog (676)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module WidgetCarousel (675)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module EditorWidgets (672)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module CollectionManager (670)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module StatsViewer (668)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (666)
+[2021.05.07-09.55.06:699][443]LogModuleManager: Shutting down and abandoning module FoliageEdit (664)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module LandscapeEditor (662)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MeshPaintMode (660)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (658)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ActorPickerMode (656)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module GeometryMode (654)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module TextureAlignMode (652)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module BspMode (650)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (648)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (646)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AutomationWorker (644)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (642)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (640)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (638)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module PlacementMode (637)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MaterialEditor (636)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (632)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (630)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (628)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (626)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (624)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module WebMMedia (622)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (620)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (618)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SequenceRecorder (617)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (614)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (612)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (610)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (608)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (606)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (604)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (602)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (600)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (598)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (596)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module CharacterAI (594)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SmartSnapping (592)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SessionServices (590)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module MeshPaint (588)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ViewportSnapping (586)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ViewportInteraction (584)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module ClothPainter (582)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (581)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module LogVisualizer (578)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module IntroTutorials (576)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (575)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (572)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (570)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (568)
+[2021.05.07-09.55.06:700][443]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (567)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (564)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (562)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (560)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (558)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (556)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (554)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module InputBindingEditor (552)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module MergeActors (550)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (548)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module LocalizationService (547)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module HardwareTargeting (544)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (542)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module UndoHistory (540)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module XmlParser (538)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module Blutility (536)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (534)
+[2021.05.07-09.55.06:966][443]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (533)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (530)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module SettingsEditor (528)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module ProjectLauncher (526)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module SessionFrontend (524)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module ProfilerClient (522)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module DeviceManager (520)
+[2021.05.07-09.55.06:967][443]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (519)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module AutomationController (516)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module AutomationWindow (514)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module Layers (512)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (510)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module DetailCustomizations (508)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module PackagesDialog (506)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (504)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module Persona (502)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (501)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module AnimGraph (499)
+[2021.05.07-09.55.07:000][443]LogModuleManager: Shutting down and abandoning module Kismet (496)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module KismetWidgets (495)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module StructViewer (490)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module ClassViewer (488)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module Toolbox (486)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module ModuleUI (484)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module ToolMenus (476)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module LiveCoding (474)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module LevelSequence (472)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (470)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module MovieScene (468)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (466)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module LauncherPlatform (464)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module AnalyticsET (462)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module PortalServices (460)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module PortalRpc (458)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module MessagingRpc (456)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (454)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module AIModule (452)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module GameplayDebugger (451)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module AITestSuite (449)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module NavigationSystem (447)
+[2021.05.07-09.55.07:007][443]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (444)
+[2021.05.07-09.55.07:010][443]LogModuleManager: Shutting down and abandoning module ProfilerService (442)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module TaskGraph (440)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module ScreenshotTools (438)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (436)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (432)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module EditableMesh (430)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (428)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module CableComponent (426)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AudioCapture (424)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (423)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AssetTags (420)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (418)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (416)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AppleImageUtils (414)
+[2021.05.07-09.55.07:179][443]LogModuleManager: Shutting down and abandoning module AndroidPermission (412)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (410)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (408)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MediaCompositing (406)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module ImgMedia (404)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (398)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (396)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (394)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module BackChannel (392)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (390)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module AutomationUtils (388)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module AlembicImporter (386)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module AlembicLibrary (385)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module GeometryCache (384)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (383)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (378)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (376)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (374)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PluginBrowser (372)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (370)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (368)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module CurveEditorTools (366)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (364)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module CryptoKeys (362)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (360)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (358)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module UObjectPlugin (356)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (354)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (352)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (350)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module GitSourceControl (348)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module SourceControl (347)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (344)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (342)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (340)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (338)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (336)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (334)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (332)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module Paper2DEditor (330)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module SignificanceManager (328)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (326)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (324)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (320)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2021.05.07-09.55.07:180][443]LogModuleManager: Shutting down and abandoning module UdpMessaging (316)
+[2021.05.07-09.55.07:281][443]LogModuleManager: Shutting down and abandoning module TcpMessaging (314)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (312)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (310)
+[2021.05.07-09.55.07:382][443]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (308)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (306)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (304)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (302)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (300)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (298)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapController (296)
+[2021.05.07-09.55.07:382][443]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (294)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module MagicLeapAR (292)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module AugmentedReality (291)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (288)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (286)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module FacialAnimation (284)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module DataValidation (282)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (280)
+[2021.05.07-09.55.07:382][443]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2021.05.07-09.55.07:383][443]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2021.05.07-09.55.07:383][443]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (276)
+[2021.05.07-09.55.07:383][443]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2021.05.07-09.55.07:383][443]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2021.05.07-09.55.07:383][443]LogModuleManager: Shutting down and abandoning module ContentBrowser (269)
+[2021.05.07-09.55.07:384][443]LogModuleManager: Shutting down and abandoning module TreeMap (267)
+[2021.05.07-09.55.07:384][443]LogModuleManager: Shutting down and abandoning module AnimationSharing (264)
+[2021.05.07-09.55.07:384][443]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (262)
+[2021.05.07-09.55.07:384][443]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2021.05.07-09.55.07:384][443]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2021.05.07-09.55.07:385][443]LogModuleManager: Shutting down and abandoning module MessageLog (223)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module SlateReflector (218)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module Slate (216)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module SlateCore (214)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (212)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module UnrealEd (210)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module MRMesh (208)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (206)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (204)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module XAudio2 (202)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module Networking (200)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module Core (198)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module MovieSceneTools (196)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module CurveEditor (195)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module Sequencer (193)
+[2021.05.07-09.55.07:386][443]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module KismetCompiler (188)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MeshUtilities (186)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (185)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (184)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (183)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2021.05.07-09.55.07:387][443]LogDerivedDataCache: Shutdown
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (131)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (129)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (127)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (125)
+[2021.05.07-09.55.07:387][443]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (123)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (119)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (117)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (115)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (109)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2021.05.07-09.55.07:388][443]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2021.05.07-09.55.07:389][443]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (101)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module InputCore (98)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module Settings (96)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (94)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module PhysXCooking (92)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module ChaosSolvers (90)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (89)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module Chaos (86)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2021.05.07-09.55.07:393][443]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2021.05.07-09.55.07:394][443]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2021.05.07-09.55.07:394][443]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2021.05.07-09.55.07:425][443]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2021.05.07-09.55.07:425][443]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.05.07-09.55.07:425][443]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C2EF17C-440B-9504-27D4-F593D1987E8C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=b27e0f3e4438c0394c71e6a5ff56b09e%7C090756843b5e4007984b03a3aadfb2b9%7Cec6a8b50-fe86-4b47-b63e-860adca990e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.05.07-09.55.07:458][443]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2021.05.07-09.55.07:459][443]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2021.05.07-09.55.07:460][443]LogModuleManager: Shutting down and abandoning module Media (57)
+[2021.05.07-09.55.07:460][443]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2021.05.07-09.55.07:460][443]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.05.07-09.55.07:460][443]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.05.07-09.55.07:461][443]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.05.07-09.55.07:463][443]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.05.07-09.55.07:463][443]LogD3D11RHI: Shutdown
+[2021.05.07-09.55.07:463][443]LogD3D11RHI: CleanupD3DDevice
+[2021.05.07-09.55.07:476][443]LogExit: Exiting.
+[2021.05.07-09.55.07:489][443]Log file closed, 05/07/21 02:55:07
