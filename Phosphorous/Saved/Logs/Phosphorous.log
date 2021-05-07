@@ -707,3 +707,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.07-01.06.35:892][ 79]AssetReimport: Importing new asset /Game/MyAssets/Fonts/Impact_Label_Reversed.
 [2021.05.07-01.06.35:892][ 79]AssetReimport: Importing new asset /Game/MyAssets/Fonts/IBMPlexSans-Medium.
 [2021.05.07-01.06.35:892][ 79]AssetReimport: Importing new asset /Game/MyAssets/Fonts/Antonio-VariableFont_wght.
+[2021.05.07-01.11.51:589][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.07-01.11.51:591][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MannyTest/Menu/MenuLevel' took 0.027
+[2021.05.07-01.11.51:591][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/willow___Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:598][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/willow___Font.willow___Font]
+[2021.05.07-01.11.51:598][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/willow___Font]
+[2021.05.07-01.11.51:605][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/willow___Font_Auto18094A92B475A3C3831486E859A8D11EA.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/willow___Font_Auto1.uasset'
+[2021.05.07-01.11.51:605][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/P22_FLLW_TERRACOTTA_REGULAR_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:612][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/P22_FLLW_TERRACOTTA_REGULAR_Font.P22_FLLW_TERRACOTTA_REGULAR_Font]
+[2021.05.07-01.11.51:612][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/P22_FLLW_TERRACOTTA_REGULAR_Font]
+[2021.05.07-01.11.51:618][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/P22_FLLW_TERRACOTTA_REGULAR_FontE556F2454588721AFD53A89B2E5E5005.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/P22_FLLW_TERRACOTTA_REGULAR_Font_Auto1.uasset'
+[2021.05.07-01.11.51:619][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/NothingYouCouldDo-Regular_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:623][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/NothingYouCouldDo-Regular_Font.NothingYouCouldDo-Regular_Font]
+[2021.05.07-01.11.51:623][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/NothingYouCouldDo-Regular_Font]
+[2021.05.07-01.11.51:628][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/NothingYouCouldDo-Regular_Font_A7885676F4787A261A8C4BAAFC759F136.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/NothingYouCouldDo-Regular_Font_Auto1.uasset'
+[2021.05.07-01.11.51:629][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/NOOVO_ITC_BOLD_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:640][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/NOOVO_ITC_BOLD_Font.NOOVO_ITC_BOLD_Font]
+[2021.05.07-01.11.51:640][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/NOOVO_ITC_BOLD_Font]
+[2021.05.07-01.11.51:646][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/NOOVO_ITC_BOLD_Font_Auto1B0B269F94948923E1B363389FB5BA4FB.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/NOOVO_ITC_BOLD_Font_Auto1.uasset'
+[2021.05.07-01.11.51:647][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/LongCang-Regular_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:656][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/LongCang-Regular_Font.LongCang-Regular_Font]
+[2021.05.07-01.11.51:656][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/LongCang-Regular_Font]
+[2021.05.07-01.11.51:662][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/LongCang-Regular_Font_Auto16B583D7845D4CFD59DDDCAB5930F5676.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/LongCang-Regular_Font_Auto1.uasset'
+[2021.05.07-01.11.51:663][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/Impact_Label_Reversed_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:673][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/Impact_Label_Reversed_Font.Impact_Label_Reversed_Font]
+[2021.05.07-01.11.51:673][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/Impact_Label_Reversed_Font]
+[2021.05.07-01.11.51:679][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Impact_Label_Reversed_Font_Auto1B3152D9E455FB0FFF33E9F82B7AD8868.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/Impact_Label_Reversed_Font_Auto1.uasset'
+[2021.05.07-01.11.51:680][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/IBMPlexSans-Medium_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:690][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/IBMPlexSans-Medium_Font.IBMPlexSans-Medium_Font]
+[2021.05.07-01.11.51:690][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/IBMPlexSans-Medium_Font]
+[2021.05.07-01.11.51:697][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/IBMPlexSans-Medium_Font_Auto1A4B97AA847DD4046270AC1B488C4E1F0.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/IBMPlexSans-Medium_Font_Auto1.uasset'
+[2021.05.07-01.11.51:698][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyAssets/Fonts/Antonio-VariableFont_wght_Font] ([1] browsable assets)...
+[2021.05.07-01.11.51:707][208]OBJ SavePackage:     Rendered thumbnail for [Font /Game/MyAssets/Fonts/Antonio-VariableFont_wght_Font.Antonio-VariableFont_wght_Font]
+[2021.05.07-01.11.51:707][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAssets/Fonts/Antonio-VariableFont_wght_Font]
+[2021.05.07-01.11.51:713][208]LogSavePackage: Moving 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Antonio-VariableFont_wght_Font_A52A91FD24D4B2A070172BABC83E60886.tmp' to 'E:/UNREAL TRIALS/Phosphorous_BP_repo/Phosphorous/Phosphorous/Saved/Autosaves/Game/MyAssets/Fonts/Antonio-VariableFont_wght_Font_Auto1.uasset'
+[2021.05.07-01.11.51:713][208]LogFileHelpers: Auto-saving content packages took 0.122
+[2021.05.07-01.36.58:160][679]LogAudioMixer: Display: Audio Buffer Underrun detected.
